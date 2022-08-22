@@ -1,0 +1,10 @@
+;This is Chrome File upload File
+WinWaitActive("Open")
+Sleep(2000)
+Send("D:\ACCELERATION\sachin_selenium\Autoit\Sachin.txt")
+Sleep(2000)
+Send("{TAB}")
+Sleep(2000)
+Send("{TAB}")
+Sleep(2000)
+Send("{ENTER}")
